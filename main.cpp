@@ -18,7 +18,7 @@ int main()
 	
 	
 
-		cout << "piliha menu"<<endl;
+		cout << "pilih menu"<<endl;
 		cout << "1. pop"<<endl;
 		cout << "2. push"<<endl;
 		cin >> pilih;
